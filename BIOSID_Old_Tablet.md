@@ -54,5 +54,6 @@ Renamed it to Save to Cloud
    2. We need to put the signature as an option.  Right now, it always shows up. So, we need to have in the setup page, if the signature should show up or not to be captured.
 
    3.  If I decide to eliminate all of the personal information for the user. In the setup page, I unselect the user name fields, addresses, company information, etc… So, there is no data to be entered.  If I save the biometrics to the cloud, I don’t have an ID number then… So, if I try to verify it, I don’t know what my ID number could be! So, we would need to have this ID number somewhere.  Either that it is a required field when we enter the information before we start to enroll a person biometric.  Or we assign a number when we finish storing it to the cloud or BIOSID hard drive.  As soon as it is saved, there’s a message that shows the User ID.
+   4. Face capture screen modification
 
            
